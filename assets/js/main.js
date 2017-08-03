@@ -59,7 +59,7 @@
 					overlayColor: '#1f2328',
 					overlayOpacity: 0.65,
 					usePopupDefaultStyling: false,
-					usePopupCaption: false,
+					usePopupCaption: true,
 					popupLoaderText: '',
 					windowMargin: (skel.breakpoint('mobile').active ? 5 : 50),
 					usePopupNav: true
